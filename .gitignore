@@ -1,0 +1,9 @@
+# Archivos compilados por Maven
+target/
+
+# Credenciales de la base de datos
+src/main/resources/db.properties
+config/db.properties
+
+# Configuración personal de NetBeans
+nbproject/private/
